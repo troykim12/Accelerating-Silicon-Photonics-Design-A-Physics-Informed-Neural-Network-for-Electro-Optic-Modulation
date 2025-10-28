@@ -72,7 +72,7 @@ class Cfg:
 
     # dataset
     out_dir: str = "hf3d_out"
-    n_samples: int = 4
+    n_samples: int = 50
     V_range: tuple = (0.0, 5.0)
     seed: int = 42
 
